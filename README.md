@@ -1,4 +1,4 @@
-### Hi there, I'm [Maciej Sikorski!](https://maciejsikorski.com) 👋
+### Hi there, I'm [Maciej Sikorski!](http://maciejsikorski.com) 👋
 
 - 👨‍🔧 I'm working at [ValueAdd](https://valueadd.pl) and [House of Angular](https://houseofangular.com)
 - 🔭 I’m currently working on Angular and NestJS apps packages
