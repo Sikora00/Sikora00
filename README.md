@@ -35,5 +35,3 @@
 [![Ngrx](https://img.shields.io/badge/-Ngrx-000000?style=flat&logo=ReactiveX&logoColor=ba2bd3)](https://ngrx.io/)
 
 ![Maciej Sikorski Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sikora00&show_icons=true&include_all_commits=true&theme=tokyonight)
-
-![Maciej Sikorski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sikora00)
