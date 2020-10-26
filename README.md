@@ -1,10 +1,11 @@
 ### Hi there, I'm [Maciej Sikorski!](http://maciejsikorski.com) 👋
 
-- 👨‍🔧 I'm working at [ValueAdd](https://valueadd.pl) and [House of Angular](https://houseofangular.com)
+- 🧑‍💻 I'm working at [ValueAdd](https://valueadd.pl) and [House of Angular](https://houseofangular.com)
 - 🔭 I’m currently working on Angular and NestJS apps packages
 - 👯 I’m looking to collaborate on NestJS apps and packages
 - 💪 My goal is to help the NestJS community grow
 - 💬 Ask me about NestJS, Node.js and Angular
+- 💼 If you would like me to help you with your project, please contact House of Angular https://houseofangular.io/hire-us/
 - 📫 How to reach me: [maciejsikorski.com](http://maciejsikorski.com) [maciejsikorski00@gmail.com](mailto:maciejsikorski00@gmail.com)
 - 🌍 I have contributed to: [![](https://img.shields.io/badge/-@nestjs/typeorm-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/typeorm) 
 [![](https://img.shields.io/badge/-@nestjs/cli-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/cli) 
