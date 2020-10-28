@@ -1,7 +1,7 @@
 ### Hi there, I'm [Maciej Sikorski!](http://maciejsikorski.com) 👋
 
 - 🧑‍💻 I'm working at [ValueAdd](https://valueadd.pl) and [House of Angular](https://houseofangular.com)
-- 🔭 I’m currently working on Angular and NestJS apps packages
+- 🔭 I’m currently working on Angular and NestJS apps and packages
 - 👯 I’m looking to collaborate on NestJS apps and packages
 - 💪 My goal is to help the NestJS community grow
 - 💬 Ask me about NestJS, Node.js and Angular
