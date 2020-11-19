@@ -10,6 +10,7 @@
 - 🌍 I have contributed to: [![](https://img.shields.io/badge/-@nestjs/typeorm-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/typeorm) 
 [![](https://img.shields.io/badge/-@nestjs/cli-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/cli) 
 [![](https://img.shields.io/badge/-@nestjs/schematics-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/schematics)
+[![](https://img.shields.io/badge/-@nestjs/config-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/config)
 [![](https://img.shields.io/badge/-nestjsdocs-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/docs.nestjs.com)
 [![](https://img.shields.io/badge/-Pimp%20My%20Pr-000000)](https://github.com/valueadd-poland/pimp-my-pr)
 [![](https://img.shields.io/badge/-@valueadd/typed%20urls-000000)](https://github.com/valueadd-poland/ts-packages)
