@@ -1,20 +1,19 @@
 ### Hi there, I'm [Maciej Sikorski!](http://maciejsikorski.com) 👋
 
-- 🧑‍💻 I'm working at [ValueAdd](https://valueadd.pl) and [House of Angular](https://houseofangular.com)
-- 🔭 I’m currently working on Angular and NestJS apps and packages
-- 👯 I’m looking to collaborate on NestJS apps and packages
+- 🧑‍💻 I'm a Software Architect
+- <img src="https://trilon.io/favicon.ico" width="20px"> Member of the [Trilon](https://trilon.io)
+- 👯 My main technologies are NestJS and Angular
+- 🔭 I specializes in broadly understood architecture (Domain Driven Design, Microservices, ect.)
 - 💪 My goal is to help the NestJS community grow
-- 💬 Ask me about NestJS, Node.js and Angular
-- 💼 If you would like me to help you with your project, please contact House of Angular https://houseofangular.io/hire-us/
+- 💬 Ask me about Software Architecture, Domain Driven Design, NestJS, Node.js and Angular
+- Founder of NestJS Architects and NestJS Poland
+- ![](https://img.shields.io/badge/--000000?style=flat&logo=Twitter)Social media: [@_MaciejSikorski](https://twitter.com/@_MaciejSikorski)
 - 📫 How to reach me: [maciejsikorski.com](http://maciejsikorski.com) [maciejsikorski00@gmail.com](mailto:maciejsikorski00@gmail.com)
-- 🌍 I have contributed to: [![](https://img.shields.io/badge/-@nestjs/typeorm-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/typeorm) 
-[![](https://img.shields.io/badge/-@nestjs/cli-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/cli) 
-[![](https://img.shields.io/badge/-@nestjs/schematics-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/schematics)
-[![](https://img.shields.io/badge/-@nestjs/config-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/config)
-[![](https://img.shields.io/badge/-nestjsdocs-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/docs.nestjs.com)
+- 🌍 I have contributed to: [![](https://img.shields.io/badge/-@nestjs/nest-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/nest)
+[![](https://img.shields.io/badge/-fastify/fastify%20cors-000000?style=flat&logo=Fastify&logoColor=black)](https://github.com/fastify/fastify-cors)
 [![](https://img.shields.io/badge/-Pimp%20My%20Pr-000000)](https://github.com/valueadd-poland/pimp-my-pr)
-[![](https://img.shields.io/badge/-@valueadd/typed%20urls-000000)](https://github.com/valueadd-poland/ts-packages)
-[![](https://img.shields.io/badge/-@sikora00/nestjs-000000)](https://github.com/Sikora00/packages)
+[![](https://img.shields.io/badge/-@valueadd/nestjs%20packages-000000)](https://github.com/valueadd-poland/nestjs-packages)
+[![](https://img.shields.io/badge/-@nestjs%20architects-000000)](https://github.com/@nestjs-architects/nx-ddd-plugin)
 
 
 ##### Languages I primary use
@@ -25,7 +24,7 @@
 ##### Tools I primary use
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=32648c)
-[![Nx](https://img.shields.io/badge/-Nx-000000?style=flat)](https://nx.dev)
+[![Nx](https://img.shields.io/badge/-Nx-000000?style=flat&logo=nx)](https://nx.dev)
 
 #### Frameworks and Libraries I primary use
 
