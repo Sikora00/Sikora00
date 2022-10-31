@@ -6,7 +6,7 @@
 - 🔭 I specializes in broadly understood architecture (Domain Driven Design, Microservices, ect.)
 - 💪 My goal is to help the NestJS community grow
 - 💬 Ask me about Software Architecture, Domain Driven Design, NestJS, Node.js and Angular
-- Founder of NestJS Architects and NestJS Poland
+- Founder of [NestJS Talks](https://www.nestjs-talks.com), NestJS Architects and NestJS Poland
 - ![](https://img.shields.io/badge/--000000?style=flat&logo=Twitter)Social media: [@_MaciejSikorski](https://twitter.com/@_MaciejSikorski)
 - 📫 How to reach me: [maciejsikorski.com](http://maciejsikorski.com) [maciejsikorski00@gmail.com](mailto:maciejsikorski00@gmail.com)
 - 🌍 I have contributed to: [![](https://img.shields.io/badge/-@nestjs/nest-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/nest)
