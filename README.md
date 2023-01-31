@@ -8,7 +8,7 @@
 - 💬 Ask me about Software Architecture, Domain Driven Design, NestJS, Node.js and Angular
 - Founder of [NestJS Talks](https://www.nestjs-talks.com), NestJS Architects and NestJS Poland
 - ![](https://img.shields.io/badge/--000000?style=flat&logo=Twitter)Social media: [@_MaciejSikorski](https://twitter.com/@_MaciejSikorski)
-- 📫 How to reach me: [maciejsikorski.com](http://maciejsikorski.com) [maciejsikorski00@gmail.com](mailto:maciejsikorski00@gmail.com)
+- 📫 How to reach me: [maciejsikorski.com](http://maciejsikorski.com) [contact@maciejsikorski.com](mailto:contact@maciejsikorski.com)
 - 🌍 I have contributed to: [![](https://img.shields.io/badge/-@nestjs/nest-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://github.com/nestjs/nest)
 [![](https://img.shields.io/badge/-fastify/fastify%20cors-000000?style=flat&logo=Fastify&logoColor=black)](https://github.com/fastify/fastify-cors)
 [![](https://img.shields.io/badge/-Pimp%20My%20Pr-000000)](https://github.com/valueadd-poland/pimp-my-pr)
