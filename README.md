@@ -1,7 +1,7 @@
 ### Hi there, I'm [Maciej Sikorski!](http://maciejsikorski.com) 👋
 
-- 🧑‍💻 I'm a Software Architect
-- <img src="https://trilon.io/favicon.ico" width="20px"> Member of the [Trilon](https://trilon.io)
+- 🧑‍💻 I'm a NestJS Consultant and Trainer
+- <img src="https://trilon.io/favicon.ico" width="20px"> Ex-member of [Trilon](https://trilon.io)
 - 👯 My main technologies are NestJS and Angular
 - 🔭 I specializes in broadly understood architecture (Domain Driven Design, Microservices, ect.)
 - 💪 My goal is to help the NestJS community grow
